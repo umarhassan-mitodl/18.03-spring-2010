@@ -2,6 +2,8 @@
 content_type: video_gallery
 description: This section provides video lectures including transcripts from the Spring
   2003 version of the course.
+hide_download: true
+hide_download_original: null
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
@@ -49,7 +51,7 @@ videos:
 
 These video lectures of Professor Arthur Mattuck teaching 18.03 were recorded live in the Spring of 2003 and do not correspond precisely to the lectures taught in the Spring of 2010. This table ({{% resource_link a3a05f3b-d3a4-70c4-858c-dfb46f7d4963 "PDF" %}}) provides a correlation between the video and the lectures in the 2010 version of the course.
 
-The videotaping was made possible by {{% resource_link "8cd9344f-0ea6-451d-8e73-83c45eea92c1" "The d'Arbeloff Fund for Excellence in MIT Education" %}}.
+The videotaping was made possible by [The d'Arbeloff Fund for Excellence in MIT Education](http://web.mit.edu/darbeloff/).
 
 Note: Lecture 18, 34, and 35 are not available.
 

@@ -4,6 +4,8 @@ description: This resource contains information related to isocline.
 file: /courses/18-03-differential-equations-spring-2010/ac498f1930fbeb702e72afecb01f9586_MIT18_03S10_prfinals.pdf
 file_size: 130023
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

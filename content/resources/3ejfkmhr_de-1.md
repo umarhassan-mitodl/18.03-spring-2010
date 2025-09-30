@@ -4,6 +4,8 @@ description: ''
 file: /courses/18-03-differential-equations-spring-2010/c71624f9f8b4debd3e74c77630f7a827_3ejfkMHr_DE.pdf
 file_size: 41190
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

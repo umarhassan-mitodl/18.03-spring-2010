@@ -4,6 +4,8 @@ description: This resource contains information related to preface.
 file: /courses/18-03-differential-equations-spring-2010/8d85b2b3747f37645db36d145ca06f6a_MIT18_03S10_preface.pdf
 file_size: 56190
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

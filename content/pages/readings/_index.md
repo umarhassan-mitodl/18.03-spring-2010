@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the reading assignments for the course and related
   Mathlets.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -75,7 +77,7 @@ Direction fields, existence and uniqueness of solutions
   
 \[SN\]: 1 ({{% resource_link eddb0941-9700-a7ef-0513-cc52118d86a8 "PDF" %}})  
   
-{{% resource_link "8511e83b-c172-4403-bca3-969347c5502b" "Isoclines" %}} Mathlet
+[Isoclines](http://math.mit.edu/mathlets/mathlets/isoclines/) Mathlet
 
 
 {{< tdclose >}}
@@ -93,7 +95,7 @@ Numerical methods
   
 \[Notes\]: G.2 ({{% resource_link 43c2ef89-5a4b-5dfb-7e9b-63488a4a859b "PDF" %}})  
   
-{{% resource_link "904b3f7e-6068-4569-ae24-78fb57be2ee2" "Euler's method" %}} Mathlet
+[Euler's method](http://math.mit.edu/mathlets/mathlets/eulers-method/) Mathlet
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,9 +155,9 @@ Complex exponentials; sinusoidal functions
   
 \[Notes\]: C.4 ({{% resource_link 8405876b-f5bc-fb11-1026-5278b70d066c "PDF" %}}) and IR.6 ({{% resource_link 6ac0b540-ff46-236e-2df8-9da85acd6685 "PDF" %}})  
   
-{{% resource_link "00d56eff-29d8-42bf-9054-dea9c27f7a1b" "Complex roots" %}} Mathlet  
+[Complex roots](http://math.mit.edu/mathlets/mathlets/complex-roots/) Mathlet  
   
-{{% resource_link "f5de7996-6f5f-4882-9cd0-2831eb8243c6" "Complex exponential" %}} Mathlet
+[Complex exponential](http://math.mit.edu/mathlets/mathlets/complex-exponential/) Mathlet
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +173,7 @@ Linear system response to exponential and sinusoidal input; gain, phase lag
   
 \[Notes\]: IR.6 ({{% resource_link 6ac0b540-ff46-236e-2df8-9da85acd6685 "PDF" %}})  
   
-{{% resource_link "0b6a0818-07d8-413a-9dfc-7b18c6d7d896" "Trigonometric identity" %}} Mathlet
+[Trigonometric identity](http://math.mit.edu/mathlets/mathlets/trigonometric-id/) Mathlet
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +189,7 @@ Autonomous equations; the phase line, stability
   
 \[SN\]: Appendix A ({{% resource_link 0e5a4e1f-230c-2b89-9327-62137263a6fb "PDF" %}})  
   
-{{% resource_link "30928ff9-46df-4df0-81a2-702a93a5ac3b" "Phase lines" %}} Mathlet
+[Phase lines](http://math.mit.edu/mathlets/mathlets/phase-lines/) Mathlet
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -233,7 +235,7 @@ Good vibrations, damping conditions
 {{< tdopen >}}
 \[EP\]: 2.3 and 2.4  
   
-{{% resource_link "da57cfba-fec6-4e24-b742-906cc534e6b5" "Damped vibrations" %}} Mathlet
+[Damped vibrations](http://math.mit.edu/mathlets/mathlets/damped-vibrations/) Mathlet
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -251,7 +253,7 @@ Exponential response formula, spring drive
   
 \[Notes\]: O.1 ({{% resource_link 3222ee53-a6cb-307d-ec11-8bf9311c522d "PDF" %}})  
   
-{{% resource_link "de33db6d-613f-4e9e-99e5-619c7f92f791" "Harmonic frequency response: Variable input frequency" %}} Mathlet
+[Harmonic frequency response: Variable input frequency](http://math.mit.edu/mathlets/mathlets/harmonic-frequency-response-i/) Mathlet
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -269,7 +271,7 @@ Complex gain, dashpot drive
   
 \[Notes\]: O.1, 2, 4 ({{% resource_link 3222ee53-a6cb-307d-ec11-8bf9311c522d "PDF" %}})  
   
-{{% resource_link "e37a1fc1-0c92-4b42-a33c-4d7e44d399c1" "Amplitude and phase: Second order II" %}} Mathlet
+[Amplitude and phase: Second order II](http://math.mit.edu/mathlets/mathlets/amplitude-and-phase-2nd-order-ii/) Mathlet
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -303,11 +305,11 @@ Frequency response
 {{< tdopen >}}
 \[SN\]: 14 ({{% resource_link 20740f69-2390-fdc6-b9dd-1cdc80332737 "PDF" %}})  
   
-{{% resource_link "e37a1fc1-0c92-4b42-a33c-4d7e44d399c1" "Amplitude and phase: Second order II" %}} Mathlet  
+[Amplitude and phase: Second order II](http://math.mit.edu/mathlets/mathlets/amplitude-and-phase-2nd-order-ii/) Mathlet  
   
-{{% resource_link "b08da774-0309-4103-8b7c-687ac3845d50" "Amplitude and phase: First order" %}} Mathlet  
+[Amplitude and phase: First order](http://math.mit.edu/mathlets/mathlets/amplitude-and-phase-1st-order/) Mathlet  
   
-{{% resource_link "b6c86e07-cf6a-458c-a877-fc83bf5e02d9" "Amplitude and phase: Second order III" %}} Mathlet
+[Amplitude and phase: Second order III](http://math.mit.edu/mathlets/mathlets/amplitude-and-phase-2nd-order-iii/) Mathlet
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -321,7 +323,7 @@ LTI systems, superposition, RLC circuits.
 {{< tdopen >}}
 \[SN\]: Appendix B ({{% resource_link 63b26053-bec6-4e7c-32b9-3900b15d7fad "PDF" %}})  
   
-{{% resource_link "c843c5df-4e4b-468a-ac57-fe29ea77da8d" "Series RLC circuit" %}} Mathlet
+[Series RLC circuit](http://math.mit.edu/mathlets/mathlets/series-rlc-circuit/) Mathlet
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -359,7 +361,7 @@ Fourier series
   
 \[SN\]: 16 ({{% resource_link fa9916e7-5e10-877a-78ff-cef6464f204d "PDF" %}})  
   
-{{% resource_link "c4bbb9ad-780a-490d-9e75-2521a759d30a" "Fourier coefficients" %}} Mathlet
+[Fourier coefficients](http://math.mit.edu/mathlets/mathlets/fourier-coefficients/) Mathlet
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -373,7 +375,7 @@ Operations on fourier series
 {{< tdopen >}}
 \[EP\]: 8.2 and 8.3  
   
-{{% resource_link "4a61353e-aad5-41c8-91a3-4685d76b54eb" "Fourier coefficients: Complex with sound" %}} Mathlet
+[Fourier coefficients: Complex with sound](http://math.mit.edu/mathlets/mathlets/fourier-coefficients-complex/) Mathlet
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -425,9 +427,9 @@ Convolution
 {{< tdopen >}}
 \[SN\]: 18 ({{% resource_link ee3f6f15-8b84-c526-906b-7b1c8e119818 "PDF" %}})  
   
-{{% resource_link "7e10d57e-ffd9-45cb-98d9-2fae190a35e3" "Convolution: Accumulation" %}} Mathlet  
+[Convolution: Accumulation](http://math.mit.edu/mathlets/mathlets/convolution-accumulation/) Mathlet  
   
-{{% resource_link "ae04ed15-7c6a-4985-a5df-498fbf266268" "Convolution: Flip and drag" %}} Mathlet
+[Convolution: Flip and drag](http://math.mit.edu/mathlets/mathlets/convolution-flip-and-drag/) Mathlet
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -489,9 +491,9 @@ The pole diagram
   
 18.03 Difference Equations and Z-Transforms ({{% resource_link 2f559943-51a6-5249-53ac-067bea36e80f "PDF" %}})(Courtesy of Jeremy Orloff.)  
   
-{{% resource_link "bd04db43-754e-4fde-8c20-cb7cd0241160" "Amplitude response: Pole diagram" %}} Mathlet  
+[Amplitude response: Pole diagram](http://math.mit.edu/mathlets/mathlets/amplitude-response-pole-diagram/) Mathlet  
   
-{{% resource_link "e026bcdf-df4c-47e4-ae6a-bd46b0f99f9b" "Poles and vibrations" %}} Mathlet
+[Poles and vibrations](http://math.mit.edu/mathlets/mathlets/poles-and-vibrations/) Mathlet
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -541,9 +543,9 @@ Eigenvalues, eigenvectors
   
 \[Notes\]: LS.2 ({{% resource_link c1ae7e6e-3eca-0d08-2ad9-7a64591890e9 "PDF" %}})  
   
-{{% resource_link "92c4b935-8fb7-4411-864b-965fd25b255f" "Linear phase portrait: Matrix entry" %}} Mathlet  
+[Linear phase portrait: Matrix entry](http://math.mit.edu/mathlets/mathlets/linear-phase-portraits-matrix-entry/) Mathlet  
   
-{{% resource_link "83fb3792-454c-42ac-9f5e-adfc6b46476d" "Matrix vector" %}} Mathlet
+[Matrix vector](http://math.mit.edu/mathlets/mathlets/matrix-vector/) Mathlet
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -559,7 +561,7 @@ Complex or repeated eigenvalues
   
 \[Notes\]: LS.3 ({{% resource_link 879f3d1f-3486-2ee3-3ca5-7018f3a912c3 "PDF" %}})  
   
-{{% resource_link "92c4b935-8fb7-4411-864b-965fd25b255f" "Linear phase portrait: Matrix entry" %}} Mathlet
+[Linear phase portrait: Matrix entry](http://math.mit.edu/mathlets/mathlets/linear-phase-portraits-matrix-entry/) Mathlet
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -573,9 +575,9 @@ Qualitative behavior of linear systems; phase plane
 {{< tdopen >}}
 \[SN\]: 26 ({{% resource_link 3de8a404-f126-86e1-6bfc-b12076e9b406 "PDF" %}})  
   
-{{% resource_link "92c4b935-8fb7-4411-864b-965fd25b255f" "Linear phase portrait: Matrix entry" %}} Mathlet  
+[Linear phase portrait: Matrix entry](http://math.mit.edu/mathlets/mathlets/linear-phase-portraits-matrix-entry/) Mathlet  
   
-{{% resource_link "92ef8473-e2b2-4bb1-82fe-a3d6fef3e1c5" "Linear phase portrait: Cursor entry" %}} Mathlet
+[Linear phase portrait: Cursor entry](http://math.mit.edu/mathlets/mathlets/linear-phase-portraits-cursor-entry/) Mathlet
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -633,7 +635,7 @@ L39
 Limitations of the linear: limit cycles and chaos
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "0e0bfe57-ede7-4c82-8b2c-fdbed5463dba" "Vector fields" %}} Mathlet
+[Vector fields](http://math.mit.edu/mathlets/mathlets/vector-fields/) Mathlet
 {{< tdclose >}}
 
 {{< trclose >}}

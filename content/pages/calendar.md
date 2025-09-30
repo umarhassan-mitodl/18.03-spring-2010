@@ -3,6 +3,8 @@ content_type: page
 description: This calendar section provides information on the course's lecture and
   recitation sessions. There is also a list of skills and concepts and where they
   are first introduced. Problem Set distribution and due dates are also provided.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
